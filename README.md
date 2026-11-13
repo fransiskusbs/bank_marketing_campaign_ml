@@ -1,8 +1,8 @@
 # Bank Marketing Campaign: Term Deposit Prediction
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bankmarketingcampaignml-txlflykzdipyjvarm37mub.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bankmarketingcampaignml-4nhia9hbzkuawzyhe8tvbn.streamlit.app/)
 
-**Live Demo:** [Bank Marketing Campaign Prediction App](https://bankmarketingcampaignml-txlflykzdipyjvarm37mub.streamlit.app)
+**Live Demo:** [Bank Marketing Campaign Prediction App](https://bankmarketingcampaignml-4nhia9hbzkuawzyhe8tvbn.streamlit.app/)
 
 ## 1. Project Overview
 This project analyzes bank telemarketing data to extract insights, improve decision-making, and identify key conversion trends. The primary focus is to **optimize telemarketing operational efficiency and maximize term deposit conversions** by moving away from randomized blanket marketing to a data-driven, targeted approach.
@@ -66,6 +66,6 @@ Due to limited operational resources (e.g., daily call quotas), the bank needs a
 - **Cost-Sensitive Threshold Tuning:** Always evaluate the model's decision threshold based on actual business costs (Cost Per Call vs. Profit Per Deposit) rather than default statistical metrics (0.5 threshold) to maximize ROI.
 
 ## 6. Contact
-- **Name:** Thomas Dany H
-- **Email:** thomasdany38@gmail.com 
-- **LinkedIn:** www.linkedin.com/in/thomas-dany-haryanto
+- **Name:** Fransiskus B Simanjorang
+- **Email:** fransiskusjorang.com 
+- **LinkedIn:** www.linkedin.com/in/fransiskusbs
